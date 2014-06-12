@@ -1,4 +1,5 @@
 ﻿using fit;
+using FizzBuzzTest.BusinessModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +9,19 @@ namespace FizzBuzzTest
 {
     public class TimesheetColumnFixture : ColumnFixture
     {
+
         public DateTime StartDate { get; set; }
         public uint ElapsedTimeHours { get; set; }
         public double CostPerHour { get; set; }
 
-        public double TotalCost()
+        public double Cost()
         {
-            return (CostPerHour * ElapsedTimeHours);
+            Timesheet timesheetUT = new Timesheet(StartDate)
+            {
+                ElapsedTime = TimeSpan.FromHours(ElapsedTimeHours)
+            };
+
+            return timesheetUT.Cost(CostPerHour);
         }
     }
 }

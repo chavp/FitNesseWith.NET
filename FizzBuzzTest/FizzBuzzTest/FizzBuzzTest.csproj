@@ -59,6 +59,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="BusinessModels\Timesheet.cs" />
+    <Compile Include="BusinessModels\TimesheetCalculator.cs" />
     <Compile Include="FizzBuzzColumnFixture.cs" />
     <Compile Include="BusinessModels\FizzBuzzGame.cs" />
     <Compile Include="TimesheetColumnFixture.cs" />
