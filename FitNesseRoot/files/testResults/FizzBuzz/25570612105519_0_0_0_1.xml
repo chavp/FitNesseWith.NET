@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20140418</FitNesseVersion>
+  <rootPath>FizzBuzz</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>21</exceptions>
+    </counts>
+    <runTimeInMillis>251</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;span class="meta"&gt;variable defined: TEST_SYSTEM=slim&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;classpath: D:\projects\Blog\FitNesse with .NET\test\FizzBuzzTestBuild\FizzBuzzTest.dll&lt;/span&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: COMMAND_PATTERN=%m -r fitSharp.Slim.Service.Runner %p&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;variable defined: TEST_RUNNER=D:\projects\Blog\FitNesse with .NET\fitSharp\Runner.exe&lt;/span&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="5"&gt;Timesheet &lt;span class="error"&gt;Could not find class Timesheet&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;checkintime&lt;/td&gt;
+		&lt;td&gt;checkouttime&lt;/td&gt;
+		&lt;td&gt;rate&lt;/td&gt;
+		&lt;td&gt;hoursworked?&lt;/td&gt;
+		&lt;td&gt;pay?&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9:00 AM &lt;span class="error"&gt;Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;5:00 PM &lt;span class="error"&gt;Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;7 &lt;span class="error"&gt;Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;8 &lt;span class="error"&gt;Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;56 &lt;span class="error"&gt;Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;10:30 AM &lt;span class="error"&gt;Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;12:30 PM &lt;span class="error"&gt;Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;4 &lt;span class="error"&gt;Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;2 &lt;span class="error"&gt;Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;8 &lt;span class="error"&gt;Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9:45 AM &lt;span class="error"&gt;Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;12:30 PM &lt;span class="error"&gt;Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;10 &lt;span class="error"&gt;Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;2.45 &lt;span class="error"&gt;Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;24.5 &lt;span class="error"&gt;Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9:05 PM &lt;span class="error"&gt;Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;3:30 PM &lt;span class="error"&gt;Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;7 &lt;span class="error"&gt;Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;6.25 &lt;span class="error"&gt;Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;43.75 &lt;span class="error"&gt;Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>FizzBuzz</relativePageName>
+    
+    
+    
+    <instructions>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_0', instruction='make', instanceName='decisionTable_0', className='Timesheet', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class Timesheet</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_4', instruction='call', instanceName='decisionTable_0', methodName='setCheckintime', args=[9:00 AM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_4</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_5', instruction='call', instanceName='decisionTable_0', methodName='setCheckouttime', args=[5:00 PM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_5</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_6', instruction='call', instanceName='decisionTable_0', methodName='setRate', args=[7]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_6</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_8', instruction='call', instanceName='decisionTable_0', methodName='hoursworked', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_8</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_9', instruction='call', instanceName='decisionTable_0', methodName='pay', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_9</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_11', instruction='call', instanceName='decisionTable_0', methodName='setCheckintime', args=[10:30 AM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_11</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_12', instruction='call', instanceName='decisionTable_0', methodName='setCheckouttime', args=[12:30 PM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_12</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_13', instruction='call', instanceName='decisionTable_0', methodName='setRate', args=[4]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_13</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_15', instruction='call', instanceName='decisionTable_0', methodName='hoursworked', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_15</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_16', instruction='call', instanceName='decisionTable_0', methodName='pay', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_16</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_18', instruction='call', instanceName='decisionTable_0', methodName='setCheckintime', args=[9:45 AM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_18</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_19', instruction='call', instanceName='decisionTable_0', methodName='setCheckouttime', args=[12:30 PM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_19</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_20', instruction='call', instanceName='decisionTable_0', methodName='setRate', args=[10]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_20</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_22', instruction='call', instanceName='decisionTable_0', methodName='hoursworked', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_22</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_23', instruction='call', instanceName='decisionTable_0', methodName='pay', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_23</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_25', instruction='call', instanceName='decisionTable_0', methodName='setCheckintime', args=[9:05 PM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_25</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckintime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_26', instruction='call', instanceName='decisionTable_0', methodName='setCheckouttime', args=[3:30 PM]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_26</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setcheckouttime not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_27', instruction='call', instanceName='decisionTable_0', methodName='setRate', args=[7]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_27</instructionId>
+                              <type>VoidReturnExpectation</type>
+                                        <evaluationMessage>Method setrate not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_29', instruction='call', instanceName='decisionTable_0', methodName='hoursworked', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_29</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method hoursworked not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_30', instruction='call', instanceName='decisionTable_0', methodName='pay', args=[]}</instruction>
+        <slimResult>null</slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>decisionTable_0_30</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method pay not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+        
+      </instructionResult>
+      
+    </instructions>
+    
+  </result>
+  
+    <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>1161</totalRunTimeInMillis>
+  
+</testResults>
+

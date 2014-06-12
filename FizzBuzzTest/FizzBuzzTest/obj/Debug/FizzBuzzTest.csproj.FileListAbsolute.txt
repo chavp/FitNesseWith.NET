@@ -1,0 +1,4 @@
+D:\projects\Blog\FitNesse with .NET\test\FizzBuzzTestBuild\FizzBuzzTest.dll
+D:\projects\Blog\FitNesse with .NET\test\FizzBuzzTestBuild\FizzBuzzTest.pdb
+D:\projects\Blog\FitNesse with .NET\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+D:\projects\Blog\FitNesse with .NET\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb
