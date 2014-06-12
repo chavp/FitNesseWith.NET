@@ -8,22 +8,13 @@ namespace FizzBuzzTest
 {
     public class TimesheetColumnFixture : ColumnFixture
     {
-        public DateTime CheckInTime { get; set; }
-        public DateTime CheckOutTime { get; set; }
-        public double Rate { get; set; }
+        public DateTime StartDate { get; set; }
+        public uint ElapsedTimeHours { get; set; }
+        public double CostPerHour { get; set; }
 
-        public double Pay()
+        public double TotalCost()
         {
-            return (Rate * HoursWorked());
+            return (CostPerHour * ElapsedTimeHours);
         }
-
-        // returns the number of hours worked
-        public double HoursWorked()
-        {
-            TimeSpan t = CheckOutTime.Subtract(CheckInTime);
-            double s = ((double)t.Hours) + ((double)t.Minutes / 100);
-            return s;
-        }
-
     }
 }
