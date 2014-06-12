@@ -6,7 +6,7 @@ using System.Text;
 
 namespace FizzBuzzTest
 {
-    public class Timesheet : ColumnFixture
+    public class TimesheetColumnFixture : ColumnFixture
     {
         public DateTime CheckInTime { get; set; }
         public DateTime CheckOutTime { get; set; }

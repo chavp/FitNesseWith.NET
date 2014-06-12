@@ -60,7 +60,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="FizzBuzzColumnFixture.cs" />
-    <Compile Include="Timesheet.cs" />
+    <Compile Include="TimesheetColumnFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>
