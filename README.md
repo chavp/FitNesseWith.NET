@@ -3,7 +3,7 @@ FitNesseWith.NET
 
 TDD/ATDD/BDD/SpecificationByExample
 
-setup & action
+Setup & Action
 
 1. Downlaod & install JAVA see http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp
 2. Download file fitnesse-standalone.jar from http://www.fitnesse.org/FitNesseDownload
@@ -19,3 +19,12 @@ setup & action
 12. Add test Page enter name FizzBuzz and enter wiki script see https://github.com/chavp/FitNesseWith.NET/blob/master/FitNesseRoot/FizzBuzz/content.txt
 13. Save test Page & Click Test
 14. FIN
+
+Reference
+1. https://schuchert.wikispaces.com/FitNesse.Tutorials.CSharp.Slim.EachTable
+2. Fit for Developing Software: Framework for Integrated Tests http://www.amazon.com/Fit-Developing-Software-Framework-Integrated/dp/0321269349/ref=sr_1_1?ie=UTF8&qid=1402557029&sr=8-1&keywords=FitNesse
+3. Agile Testing: A Practical Guide for Testers and Agile Teams 
+4. http://www.amazon.com/Agile-Testing-Practical-Addison-Wesley-Signature-ebook/dp/B001QL5N4K/ref=sr_1_3?ie=UTF8&qid=1402557061&sr=8-3&keywords=FitNesse
+5. Test Driven Development: By Example http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/ref=pd_bxgy_b_text_y
+6. ATDD by Example: A Practical Guide to Acceptance Test-Driven Development http://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154/ref=sr_1_5?ie=UTF8&qid=1402557061&sr=8-5&keywords=FitNesse
+
