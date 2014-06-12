@@ -6,18 +6,22 @@ using System.Text;
 namespace FizzBuzzTest
 {
     using fit;
+using FizzBuzzTest.BusinessModels;
 
     public class FizzBuzzColumnFixture : ColumnFixture
     {
-        // source -> http://en.wikipedia.org/wiki/Fizz_buzz
+        FizzBuzzGame _fizzBuzzGameUT = null;
+
+        public FizzBuzzColumnFixture()
+        {
+            _fizzBuzzGameUT = new FizzBuzzGame();
+        }
 
         public int Number { get; set; }
 
         public string FizzBuzzSay()
         {
-            if (Number % 3 == 0) return "Fizz";
-            if (Number % 5 == 0) return "Buzz";
-            return Number.ToString();
+            return _fizzBuzzGameUT.Say(Number);
         }
     }
 }

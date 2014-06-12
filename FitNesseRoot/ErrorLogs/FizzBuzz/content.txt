@@ -1,8 +1,8 @@
 
 !3 !-slim:D:\projects\Git\FitNesseWith.NET\fitSharp\Runner.exe-!
-|'''Date: '''| 12:02:08 หลังเที่ยง (ICT) on วันพฤหัสบดี, มิถุนายน 12, 2557 |
+|'''Date: '''| 12:08:37 หลังเที่ยง (ICT) on วันพฤหัสบดี, มิถุนายน 12, 2557 |
 |'''Test Page: '''|.FizzBuzz|
-|'''Command: '''| !-D:\projects\Git\FitNesseWith.NET\fitSharp\Runner.exe -r fitSharp.Slim.Service.Runner D:\projects\Git\FitNesseWith.NET\test\FizzBuzzTestBuild\FizzBuzzTest.dll  8089-! |
+|'''Command: '''| !-D:\projects\Git\FitNesseWith.NET\fitSharp\Runner.exe -r fitSharp.Slim.Service.Runner D:\projects\Git\FitNesseWith.NET\test\FizzBuzzTestBuild\FizzBuzzTest.dll  8091-! |
 |'''Exit code: '''| 0 |
-|'''Time elapsed: '''| 0.701 seconds |
+|'''Time elapsed: '''| 0.728 seconds |
 
